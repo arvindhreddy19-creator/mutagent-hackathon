@@ -1,0 +1,6 @@
+{
+  "name": "Ignite Studio",
+  "description": "Production-grade AI startup platform validating startup ideas using multi-agent AI framework following MutAgent ADL (Spec, Build, Evaluate, Diagnose, Optimize).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

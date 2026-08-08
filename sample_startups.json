@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sample-1",
+    "idea_title": "OmniDoc AI",
+    "description": "An AI-powered automated medical documentation assistant that listens to patient-doctor encounters, transcribes conversations in real-time, extracts EHR structured data, and auto-generates insurance pre-authorization claim codes.",
+    "target_market": "US Outpatient Clinics & Private Practices",
+    "industry": "Healthcare AI & HealthTech",
+    "budget_range": "$50k - $100k",
+    "stage": "MVP Spec"
+  },
+  {
+    "id": "sample-2",
+    "idea_title": "GreenChain Logistics",
+    "description": "An autonomous AI supply chain optimizer that predicts carbon tax liability, dynamic shipping route weather disruptions, and automated multi-carrier cost arbitrage for enterprise e-commerce brands.",
+    "target_market": "Global Enterprise Freight & E-Commerce",
+    "industry": "Supply Chain & ClimateTech",
+    "budget_range": "$100k - $250k",
+    "stage": "Prototype"
+  },
+  {
+    "id": "sample-3",
+    "idea_title": "CodeShield Autonomous QA",
+    "description": "An agentic developer platform that injects synthetic fault vectors into pull requests, auto-generates regression test suites, and verifies SOC2 security compliance prior to merge.",
+    "target_market": "Global Developer Teams & B2B SaaS",
+    "industry": "Developer Tools & CyberSecurity",
+    "budget_range": "$25k - $50k",
+    "stage": "Idea"
+  }
+]
